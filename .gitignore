@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environments
+.env
+.venv
+venv/
+ENV/
+
+# Local Vector Database & Cached PDF files
+chroma_db/
+data/
+
+# Temporary files
+*.tmp
+.idea/
+.vscode/
